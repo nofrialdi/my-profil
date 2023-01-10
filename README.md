@@ -44,3 +44,10 @@ This is a paragraph.
 echo "Hello World!";
 ?>
 ```
+
+### JavaScript
+
+```js
+const text = "Hello World";
+console.log(text);
+```
