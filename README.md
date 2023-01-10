@@ -36,3 +36,9 @@ This is a paragraph.
   <p>This is a paragraph.</p>
 </main>
 ```
+
+```php
+<?php
+echo "Hello World!";
+?>
+```
