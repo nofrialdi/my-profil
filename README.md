@@ -2,7 +2,7 @@
 <br><br>
 <h1 align="center">Hi 👋, Welcome to Nofrialdi's Profile</h1>
 
- <img align="right" alt="coding" src="asset/coding.gif" width=400px>
+ <img align="right" alt="coding" src="asset/coding.gif" width=600px>
 <p align="left">Hi, everyone! I would like to introduce myself! My full name is Intan Aulia Husnunnisa, you can call me Intan. I live in Jakarta. Nice to meet you all. Thank you and nice to meet you all!</p>
 
 <h2 align="left">Connect with me:</h2>
