@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, Welcome to Nofrialdi's Profile</h1>
 <h3 align="center">This is an assignment for "My Profile"</h3>
 
-<p align="left" width=600px>Hi, everyone! I would like to introduce myself! My full name is Intan Aulia Husnunnisa, you can call me Intan. I live in Jakarta. Nice to meet you all. Thank you and nice to meet you all!</p>
- <img align="right" alt="coding" src="asset/coding.gif" width=400px>
+<p align="left" width=600px>Hi, everyone! I would like to introduce myself! My full name is Intan Aulia Husnunnisa, you can call me Intan. I live in Jakarta. Nice to meet you all. Thank you and nice to meet you all!  <img align="right" alt="coding" src="asset/coding.gif" width=400px></p>
 
 <h3 align="left">Connect with me:</h2>
 <p align="left">
