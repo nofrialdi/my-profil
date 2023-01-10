@@ -60,3 +60,5 @@ echo "Hello World!";
 const text = "Hello World";
 console.log(text);
 ```
+
+![thanks](assets/thank-you.gif)
