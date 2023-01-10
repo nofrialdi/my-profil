@@ -1,6 +1,6 @@
 <img align="center" alt="coding" src="asset/giphy.gif" width=1200px height=200px>
-<br><br>
 <h1 align="center">Hi 👋, Welcome to Nofrialdi's Profile</h1>
+<br>
 
 <p align="left">Hi, everyone! I would like to introduce myself! My full name is Intan Aulia Husnunnisa, you can call me Intan. I live in Jakarta. Nice to meet you all. Thank you and nice to meet you all!</p>
 
