@@ -61,4 +61,4 @@ const text = "Hello World";
 console.log(text);
 ```
 
-![thanks](assets/thank-you.gif)
+![thanks](asset/thank-you.gif)
