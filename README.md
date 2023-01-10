@@ -1,4 +1,3 @@
-<script src="https://gist.github.com/rxaviers/7360908.js"></script>
 <img align="center" alt="coding" src="asset/giphy.gif" width=900px height=200px>
 <br><br>
 <h1 align="center">Hi 👋, Welcome to Nofrialdi's Profile</h1>
