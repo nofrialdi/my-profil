@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, Welcome to Nofrialdi's Profile</h1>
 <br>
 
-<p align="left">Hi, everyone! I would like to introduce myself! My full name is Nofrialdi, you can call me Intan. I live in Bekasi. Nice to meet you all. Thank you and nice to meet you all!</p>
+<p align="left">Hi, everyone! I would like to introduce myself! My full name is Nofrialdi, you can call me Aldi. I live in Bekasi. Nice to meet you all. Thank you and nice to meet you all!</p>
 
 <img align="right" alt="coding" src="asset/coding.gif" width=400px>
 
