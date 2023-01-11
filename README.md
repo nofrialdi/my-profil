@@ -21,7 +21,7 @@
 
 ## My Links
 
-- Website: [nofrialdi.com](https://nofrialdi.com)
+- Website: [nofrialdi.com](https://nofrialdi.github.io/cv_web/)
 - GitHub: [@nofrialdi](https://github.com/nofrialdi)
 - LinkedIn: [nofrialdi](https://linkedin.com/in/nofrialdi-aldi-b739b4a9)
 
@@ -35,11 +35,11 @@
 
 ## My Favorite Websites
 
-| Name      | URL                     | Reason                         |
-| --------- | ----------------------- | ------------------------------ |
-| Google    | <https://google.com>    | To search anything             |
-| GitHub    | <https://github.com>    | To search and learn about code |
-| Instagram | <https://instagram.com> | To talk with tech people       |
+| Name      | URL                     | Reason                                |
+| --------- | ----------------------- | ------------------------------------- |
+| Google    | <https://google.com>    | To search anything                    |
+| GitHub    | <https://github.com>    | To search and learn about code        |
+| Instagram | <https://instagram.com> | To a place to upload and share photos |
 
 ## My Code Examples
 
