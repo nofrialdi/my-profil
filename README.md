@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, Welcome to Nofrialdi's Profile</h1>
 <br>
 
-<p align="left">Hi, everyone! I would like to introduce myself! My full name is Intan Aulia Husnunnisa, you can call me Intan. I live in Jakarta. Nice to meet you all. Thank you and nice to meet you all!</p>
+<p align="left">Hi, everyone! I would like to introduce myself! My full name is Nofrialdi, you can call me Intan. I live in Bekasi. Nice to meet you all. Thank you and nice to meet you all!</p>
 
 <img align="right" alt="coding" src="asset/coding.gif" width=400px>
 
@@ -18,6 +18,20 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nofrialdi&show_icons=true&locale=en&layout=compact" alt="nofrialdi" /></p>
 <br><br><br><br><br><br><br><br>
+
+## My Links
+
+- Website: [nofrialdi.com](https://nofrialdi.com)
+- GitHub: [@nofrialdi](https://github.com/nofrialdi)
+- LinkedIn: [nofrialdi](https://linkedin.com/in/nofrialdi-aldi-b739b4a9)
+
+## My Technical Skills
+
+1. Code Editor and VS Code
+2. Markdown
+3. Terminal and CLI
+4. Git
+5. GitHub
 
 ## My Favorite Websites
 
