@@ -35,9 +35,9 @@ Hi, everyone! I would like to introduce myself! My full name is Nofrialdi, you c
 
 ## :zap: My Portfolio
 
-1. [Project 1](https://github.com/anggr/ProjectAlpha-MERN)
-2. [Project 2](https://github.com/anggr/Alpha-BE-Pg)
-3. [Project 3](https://github.com/anggr/Gamepedia)
+1. [Project 1](https://github.com/nofrialdi/takashimura_store)
+2. [Project 2](https://github.com/nofrialdi/G21_DTS20)
+3. [Project 3](https://github.com/nofrialdi/cv_web)
 
 ## My Code Example
 
