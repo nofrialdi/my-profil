@@ -27,13 +27,16 @@ Hi, everyone! I would like to introduce myself! My full name is Nofrialdi, you c
 
 ## My Favorite Websites
 
-| Name      | URL                     | Reason                                |
-| --------- | ----------------------- | ------------------------------------- |
-| Google    | <https://google.com>    | To search anything                    |
-| GitHub    | <https://github.com>    | To search and learn about code        |
-| Instagram | <https://instagram.com> | To a place to upload and share photos |
+| Name      | URL                     | Reason                                   |
+| --------- | ----------------------- | ---------------------------------------- |
+| Google    | <https://google.com>    | To search anything                       |
+| GitHub    | <https://github.com>    | To search and learn about code           |
+| Instagram | <https://instagram.com> | To a place to upload and share photos    |
+| Youtube   | <https://youtube.com>   | to upload videos online and watch videos |
 
 ## :zap: My Portfolio
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nofrialdi&show_icons=true&locale=en&layout=compact" alt="nofrialdi" /></p>
 
 1. [Project 1](https://github.com/nofrialdi/takashimura_store)
 2. [Project 2](https://github.com/nofrialdi/G21_DTS20)
@@ -104,5 +107,3 @@ SELECT * FROM Customers;
 ```
 
 </details>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nofrialdi&show_icons=true&locale=en&layout=compact" alt="nofrialdi" /></p>
