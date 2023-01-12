@@ -16,9 +16,10 @@ Hi, everyone! I would like to introduce myself! My full name is Nofrialdi, you c
 
 ## :rocket: Connect with me:
 
-<a href="https://linkedin.com/in/nofrialdi-aldi-b739b4a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nofrialdi-aldi-b739b4a9" height="30" width="40" /></a>
-<a href="https://instagram.com/nofrialdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nofrialdi" height="30" width="40" /></a>
-<a href="mailto:aldi.fasive@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="nofrialdi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nofrialdi-aldi-b739b4a9" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.png" alt="nofrialdi-aldi-b739b4a9" height="30" width="60" /></a>
+<a href="https://instagram.com/nofrialdi" target="blank"><img align="center" src="https://disdukcapil.banyuasinkab.go.id/wp-content/uploads/sites/248/2022/09/Logo-Instagram.-Foto-Cyware.png" alt="nofrialdi" height="30" width="60" /></a>
+<a href="mailto:aldi.fasive@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.png" alt="nofrialdi" height="30" width="60" /></a>
+<a href="https://www.youtube.com/channel/UCTtnlLcljpcu6B6gADAik5g" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/003/206/623/small/youtube-editorial-app-icon-free-vector.jpg" alt="nofrialdi" height="30" width="60" /></a>
 
 ## Technologies & Tools
 
