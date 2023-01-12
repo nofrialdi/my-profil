@@ -105,4 +105,4 @@ SELECT * FROM Customers;
 
 </details>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nofrialdi&show_icons=true&locale=en&layout=compact" alt="nofrialdi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nofrialdi&show_icons=true&locale=en&layout=compact" alt="nofrialdi" /></p>
